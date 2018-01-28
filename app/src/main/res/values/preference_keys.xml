@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="key_pref_general_subject">general_subject</string>
+    <string name="key_pref_general_class">general_class</string>
+    <string name="key_table_pref_groups">groups</string>
+    <string name="key_pref_notifications_next_lesson">notification_next_lesson</string>
+    <string name="key_pref_notifications_time">notification_time</string>
+    <string name="key_pref_other_table_url">table_url</string>
+    <string name="key_pref_other_subs_url">subs_url</string>
+    <string name="key_pref_language">app_language</string>
+
+    <string name="key_pref_groups_starter">groups_starter</string>
+    <string name="key_pref_dl_starter">table_dl_starter</string>
+
+    <string name="changes_happened">changes_happened</string>
+
+    <string name="category_tables">tables</string>
+    <string name="ct_classes">classes</string>
+    <string name="ct_all_tables">allTables</string>
+    <string name="ct_current_table">currentTable</string>
+    <string name="ct_updated_table">updatedTable</string>
+
+    <string name="category_subs">subs</string>
+    <string name="category_subs_files">subsTables</string>
+</resources>

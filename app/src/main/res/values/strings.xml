@@ -1,0 +1,71 @@
+<resources>
+    <string name="app_name">Zupl</string>
+    <string name="nav_settings">Nastavení</string>
+    <string name="no_new_table_msg">Žádné změny rozvhu.</string>
+    <string name="yes_new_table_msg">Rozvrh byl aktualizován</string>
+    <string name="new_supl_msg">Bylo vydáno suplování</string>
+    <string name="new_supl_msg_short">Bylo vydáno suplování</string>
+    <string name="updated_supl_msg">Suplování bylo aktualizováno</string>
+    <string name="updated_supl_msg_short">Aktualizace suplování!</string>
+    <string name="loading_table_message">Stahuji rozvrhy. Počkejte prosím...</string>
+    <string name="pref_header_general">Třída/Vyučující &amp; Skupiny</string>
+    <string name="pref_title_general_class">Třída / Vyučující</string>
+    <string name="pref_header_notifications">Notifikace</string>
+    <string name="pref_title_notify_lessons">Upozorňit na hodinu</string>
+    <string name="pref_desc_notify_lessons">Pokud tuto volbu vypnete, nebudete upozorněn/a, co je další hodinu.</string>
+    <string name="pref_title_notification_time">Čas upozornění</string>
+    <string name="pref_title_general_groups">Skupiny</string>
+    <string name="pref_desc_general_groups">Výběr skupin předmětů</string>
+
+    <string-array name="list_preference_notification_times_titles">
+        <item>Na konci předchozí hodiny (10 min před 1. hodinou)</item>
+        <item>10 minut předem</item>
+        <item>5 minut předem</item>
+        <item>3 minuty předem</item>
+    </string-array>
+
+    <string-array name="list_preference_notification_times_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+
+    <string-array name="list_preference_subjects_titles">
+        <item>Žák</item>
+        <item>Vyučující</item>
+    </string-array>
+
+    <string-array name="list_preference_subjects_values">
+        <item>Žák</item>
+        <item>Vyučující</item>
+    </string-array>
+
+    <string name="pupil">Žák</string>
+    <string name="teacher">Vyučující</string>
+    <string name="title_activity_preference">Nastavení</string>
+    <string name="btn_apply">Použít</string>
+    <string name="btn_cancel">Zrušit</string>
+    <string name="btn_clear">Vymazat</string>
+    <string name="btn_add_all">Prof. Mode</string>
+    <string name="btn_manal_update">Aktualizovat</string>
+    <string name="btn_previous">&lt;&lt;&lt;</string>
+    <string name="btn_next">&gt;&gt;&gt;</string>
+    <string name="close">Zavřít</string>
+    <string name="class_not_selected">Nevybráno</string>
+    <string name="advice_settings">Aplikace není nastavena, přejděte do nastavení</string>
+    <string name="pref_header_other">Adresy</string>
+    <string name="pref_title_table">Adreasa rozvrhů</string>
+    <string name="pref_title_subs">Adresa suplování</string>
+    <string name="pref_table_default">https://www.gyarab.cz/static/rozvrh/curr/rozvrhtr.htm</string>
+    <string name="pref_table_default2">https://www.gyarab.cz/static/rozvrh/curr/rozvrhuc.htm</string>
+    <string name="pref_subs_default">https://www.gyarab.cz/media/suplovani/suplov.htm</string>
+    <string name="pref_header_language">Jazyk</string>
+    <string name="pref_title_language">Změnit jazyk</string>
+    <string name="groups_not_selected_msg">Skupiny nebyly vybrány</string>
+    <string name="class_group_not_selected">Třída a skupiny nebyly vybrány</string>
+    <string name="pref_title_dl_table">Ručně aktualizovat rozvrh</string>
+    <string name="pref_desc_dl_table">Znovu stáhne rozvrh</string>
+    <string name="pref_title_subject">Žák / Vyučující</string>
+
+</resources>

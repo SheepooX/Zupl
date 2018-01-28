@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory
+        android:title="@string/pref_header_general"
+        android:key="pref_general">
+
+        <ListPreference
+            android:key="@string/key_pref_general_subject"
+            android:entries="@array/list_preference_subjects_titles"
+            android:entryValues="@array/list_preference_subjects_values"
+            android:title="@string/pref_title_subject" />
+
+        <ListPreference
+            android:key="@string/key_pref_general_class"
+            android:dependency="@string/key_pref_general_subject"
+            android:title="@string/pref_title_general_class"
+            android:enabled="false"/>
+
+        <Preference
+            android:key="@string/key_pref_groups_starter"
+            android:enabled="false"
+            android:title="@string/pref_title_general_groups"
+            android:summary="@string/pref_desc_general_groups">
+        </Preference>
+
+        <Preference
+            android:key="@string/key_pref_dl_starter"
+            android:enabled="false"
+            android:title="@string/pref_title_dl_table"
+            android:summary="@string/pref_desc_dl_table">
+        </Preference>
+
+    </PreferenceCategory>
+
+    <PreferenceCategory
+        android:title="@string/pref_header_notifications"
+        android:key="pref_notifications">
+
+        <SwitchPreference
+            android:key="@string/key_pref_notifications_next_lesson"
+            android:defaultValue="true"
+            android:title="@string/pref_title_notify_lessons"
+            android:summary="@string/pref_desc_notify_lessons" />
+
+        <ListPreference
+            android:key="@string/key_pref_notifications_time"
+            android:dependency="notification_next_lesson"
+            android:defaultValue="0"
+            android:entries="@array/list_preference_notification_times_titles"
+            android:entryValues="@array/list_preference_notification_times_values"
+            android:title="@string/pref_title_notification_time" />
+
+    </PreferenceCategory>
+
+    <!--PreferenceCategory
+        android:title="@string/pref_header_other"
+        android:key="pref_other">
+
+        <EditTextPreference
+            android:key="@string/key_pref_other_table_url"
+            android:title="@string/pref_title_table"
+            android:defaultValue="@string/pref_table_default"
+            android:summary="@string/pref_table_subs_summary"/>
+
+        <EditTextPreference
+            android:key="@string/key_pref_other_subs_url"
+            android:title="@string/pref_title_subs"
+            android:defaultValue="@string/pref_subs_default"
+            android:summary="@string/pref_table_subs_summary"/>
+
+    </PreferenceCategory-->
+
+</PreferenceScreen>

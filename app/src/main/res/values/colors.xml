@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#4086ff</color>
+    <color name="dayTitles">#444444</color>
+    <color name="background_holo_light">#FAFAFA</color>
+
+    <color name="cell_yellow">#FFFF99</color>
+    <color name="cell_green">#99FF99</color>
+    <color name="cell_red">#FF9999</color>
+    <color name="cell_rich_yellow">#FFFF00</color>
+</resources>
