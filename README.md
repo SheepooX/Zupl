@@ -16,22 +16,22 @@ Documentation (in czech): ![Documentation (in czech)](https://raw.githubusercont
 
 ### Main Display
 
-![picture alt](https://lh6.googleusercontent.com/8kYhJ8NW7rIaPfGcIonwAdxY2voOwDYK4K-bf32D463PH1JfqwSh5bEqVZEmeMSgbtBJ25FNP0Na4wkXq5zf=w1280-h854-rw)
+![picture alt](https://raw.githubusercontent.com/SheepooX/Zupl/master/screenshots/changes_in_timetable.png)
 
 ### Classroom Location
 
-![picture alt](https://lh3.googleusercontent.com/ITSztnbjsxRl2EA5DYvPmylahflA56JTVQIMEx6cjX4fbBbNb1h8UmbU3aEadqWtnWZrq4NbAaur4-pS4i-n=w1280-h854-rw)
+![picture alt](https://raw.githubusercontent.com/SheepooX/Zupl/master/screenshots/classroom_location.png)
 
 ### Settings
 
-![picture alt](https://lh5.googleusercontent.com/weXw58FC3afytjb6lDKk71OtIx3rkZFoANXT-F44C_-BnFs2VLJAHrhlCZyMQxVMwTj3EDrOhvcQh2OgQ1ZV=w1280-h854-rw)
+![picture alt](https://raw.githubusercontent.com/SheepooX/Zupl/master/screenshots/settings.png)
 
 ### Group Selection
 
-![picture alt](https://lh5.googleusercontent.com/5_t4U84iO1N8X470fXXdJNhnP9x1443328WfQwronT9TrXZWL1sEKxP-VaRm5A8YI-nukVTTNLjigz98PxSJ=w1280-h854-rw)
+![picture alt](https://raw.githubusercontent.com/SheepooX/Zupl/master/screenshots/group_selection.png)
 
 ### Notifications
 
-![picture alt](https://lh6.googleusercontent.com/xmi1UDmnaG5QfV4tTRuZAe60gBvD3vQu6j9mlfWsxp_J9anrXiBLsZ6gR7B51hhmDe_EkzX8_B-kLcQN3Ep6=w1920-h959-rw)
+![picture alt](https://raw.githubusercontent.com/SheepooX/Zupl/master/screenshots/next_lesson_notification.png)
 
-![picture alt](https://lh5.googleusercontent.com/mLsJ-PUbbp57j4EdjufsCz7AGgpmxL3AdQ7HA9yLfCJHuqMp9doAzXxgMdWD5qj9RtwzvAC_kW4C9KevnqXu=w1920-h959-rw)
+![picture alt](https://raw.githubusercontent.com/SheepooX/Zupl/master/screenshots/timetable_update.png)
