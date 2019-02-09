@@ -6,10 +6,10 @@ Documentation (in czech): ![Documentation (in czech)](https://raw.githubusercont
 
 # Main features
 
-* Displays your subjects based on your class and groups (language, P.E., etc.)
+* Displays your lessons based on your class and groups
 * Tells you the classroom location which is handy for new students
 * Notifies you when something changes (configurable)
-* Notifies you before the next lesson starts (also configurable)
+* Notifies you before the next lesson starts (configurable)
 
 # UI
 
